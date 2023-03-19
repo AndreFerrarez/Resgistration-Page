@@ -1,6 +1,9 @@
-Registration Page  "AJ CAPITAL WEALTH MANAGMENT".
-This is a simple registration page built using HTML and CSS in VS Code. The purpose of this page is to collect user information and allow users to create an account on a web platform.
+Registration Page  
 
+- This is a simple registration page built using HTML and CSS in VS Code. The purpose of this page is to collect user information and allow users to create an account on a web platform.
+
+
+"AJ CAPITAL WEALTH MANAGMENT".
 
 Screenshot 
 
