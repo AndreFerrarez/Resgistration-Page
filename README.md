@@ -18,6 +18,7 @@ Getting Started
 To get started with the registration page, simply download or clone the repository and open the index.html file in a web browser.
 
 Bash.
+
 git clone https://github.com/AndreFerrarez/Resgistration-Page
 
 
