@@ -5,7 +5,7 @@ Registration Page
 
 "AJ CAPITAL WEALTH MANAGMENT".
 
-Screenshot 
+
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/81924112/226208591-41ff3a75-ace4-49ce-b86a-1272252adc12.png">
 
