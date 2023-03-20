@@ -25,10 +25,10 @@ I welcome contributions from other developers! If you would like to contribute t
 please follow these steps:
 
 - Fork the repository
-- Create a new branch (git checkout -b my-new-feature)
-- Make changes and commit them (git commit -am 'Add some feature')
-- Push to the branch (git push origin my-new-feature)
-- Create a new Pull Request
+- Create a new branch `git checkout -b my-new-feature`
+- Make changes and commit them `git commit -am 'Add some feature'`
+- Push to the branch `git push origin my-new-feature`
+- Create a new pull request
 
 ## Acknowledgments
 The Bootstrap CSS framework was used to style the page.
