@@ -1,8 +1,6 @@
 # AJ CAPITAL WEALTH MANAGMENT
 This is a simple registration page built using JavaScript, HTML and CSS. The purpose of this page is to collect user information and allow users to create an account on a web platform.
 
-Screenshot 
-
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/81924112/226208591-41ff3a75-ace4-49ce-b86a-1272252adc12.png">
 
 Users must provide their name, email address, desired username, and password (with confirmation). In addition, users are asked to provide information about their investor profile, including investment preferences, risk tolerance, and experience. This information will be used to personalize investment recommendations for the user. Once the user fills out all the required fields and submits the registration form, they will receive a confirmation email to verify their email address and complete the registration process.
