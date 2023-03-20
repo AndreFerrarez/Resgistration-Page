@@ -1,5 +1,5 @@
 # Registration Page - "AJ CAPITAL WEALTH MANAGMENT"
-This is a simple registration page built using HTML and CSS. The purpose of this page is to collect user information and allow users to create an account on a web platform.
+This is a simple registration page built using JavaScript, HTML and CSS. The purpose of this page is to collect user information and allow users to create an account on a web platform.
 
 Screenshot 
 
